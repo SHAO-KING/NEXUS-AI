@@ -19,7 +19,7 @@
 ---
 <h4 align="left">1. 𝐌𝐲 𝐚𝐜𝐜𝐨𝐮𝐧𝐭</h4>
 <p align="left">
-<a href='https://github.com/pkdriller0' target="_blank"><img alt='Github' src='https://img.shields.io/badge/-Github%20Follow-blue?style=for-the-badge&logo=github&logoColor=white'/></a>
+<a href='https://github.com/SHAO-XMD/SHAO-XMD' target="_blank"><img alt='Github' src='https://img.shields.io/badge/-Github%20Follow-blue?style=for-the-badge&logo=github&logoColor=white'/></a>
 </p>
 
 
@@ -32,7 +32,7 @@
 ### ⭐ Fork & Star the Repository
 Fork this repo and give it a ⭐ to support Pkdriller!
 
-[![Fork Repo](https://img.shields.io/badge/Github-Fork%20Repo-red?style=for-the-badge&logo=Github)](https://github.com/pkdriller0/NEXUS-AI/fork)
+[![Fork Repo](https://img.shields.io/badge/Github-Fork%20Repo-red?style=for-the-badge&logo=Github)](https://github.com/SHAO-XMD/SHAO-XMD/fork)
 
 ---
 
@@ -48,7 +48,7 @@ Fork this repo and give it a ⭐ to support Pkdriller!
 
 #### 🟣 Heroku
 ---
-[![Deploy on Heroku](https://img.shields.io/badge/-DEPLOY-purple?style=for-the-badge&logo=heroku&logoColor=white)](https://dashboard.heroku.com/new?template=https://github.com/pkdriller0/NEXUS-AI)
+[![Deploy on Heroku](https://img.shields.io/badge/-DEPLOY-purple?style=for-the-badge&logo=heroku&logoColor=white)](https://dashboard.heroku.com/new?template=https://github.com/SHAO-XMD/SHAO-XMD)
 
 
 ---
@@ -71,7 +71,7 @@ Fork this repo and give it a ⭐ to support Pkdriller!
 ## 𝑺𝑼𝑷𝑷𝑶𝑹𝑻 𝑩𝒀 𝑭𝑶𝑳𝑳𝑶𝑾𝑰𝑵𝑮 𝐎𝐔𝐑 𝑾𝑯𝑨𝑻𝑺𝑨𝑷𝑷 𝑪𝑯𝑨𝑵𝑵𝑬𝑳
 
 
- <a href="https://https://whatsapp.com/channel/0029Vb652ZtFi8xXjKxGsC3B"><img title="OUR-WHATSAPP CHANNEL" src="https://img.shields.io/badge/OUR-WHATSAPP CHANNEL-h?color=green&style=for-the-badge&logo=whatsapp" width="280" height="38.45"/></a></p>
+ <a href="https:https://whatsapp.com/channel/0029Vb652ZtFi8xXjKxGsC3B"><img title="OUR-WHATSAPP CHANNEL" src="https://img.shields.io/badge/OUR-WHATSAPP CHANNEL-h?color=green&style=for-the-badge&logo=whatsapp" width="280" height="38.45"/></a></p>
  
  
 
